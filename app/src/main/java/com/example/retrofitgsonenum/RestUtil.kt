@@ -36,5 +36,4 @@ class RestUtil private constructor() {
                 return self!!
             }
     }
-
 }
